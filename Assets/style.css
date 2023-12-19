@@ -5,6 +5,10 @@ body {
     height: 100%;
 }
 
+.navbar-nav a:hover {
+    color: yellow !important;
+}
+
 .hero {
     padding: 20px 10px; 
 }
