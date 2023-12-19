@@ -22,8 +22,9 @@ body {
     margin: 3px;
     }
 .card-body h1 {
-      text-align: end;
-      
+    color: #fff;    
+    text-shadow: 1px 1px black;
+    text-align: start;         
     }
     
 .card-body img {
