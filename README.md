@@ -9,7 +9,7 @@ This site is build using elements from [Bootstrap](https://getbootstrap.com/)
 The logo icon is from [Fontawesome](https://fontawesome.com/kits)
 
 ### Table of contents
-- Visit the portfolio site [Portfolio]()
+- Visit the portfolio site [Portfolio](https://nadinetsianta.github.io/Bootstrap-Portfolio/)
 - Visit old portfolio for comparison [Nadine Tsianta Portfolio](https://nadinetsianta.github.io/portfolio/)
 - [HTML](#HTML)
 - [CSS](#CSS)
