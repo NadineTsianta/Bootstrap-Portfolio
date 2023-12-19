@@ -5,6 +5,13 @@ body {
     height: 100%;
 }
 
+.hero {
+    padding: 4rem 2rem;
+}
+
+.hero img {
+    border-radius: 30% 70% 70% 30% / 30% 30% 70% 70% !important;
+}
 
 /* card styles */
 
@@ -15,9 +22,41 @@ body {
     padding: 10px;
     margin: 3px;
     }
+    .card-title {
+        align-content: end !important;
+    }
     
 
     .card-body img {
         border-radius: 15px;
     }
+  
+    /* skills */
+
+    .skills {
+        margin: 70px 0;
+    }
+
+    .skills ul {
+        display: flex;
+        align-items: center;
+        justify-content: space-evenly;
+    }
+    ul {
+        list-style: none;
+    }
+
+    /* About */
+    .about {
+        margin: 70px 0;
     
+    }
+
+    footer {
+        color: white;
+        justify-content: center;
+        text-align: right;
+    }
+    footer p {
+        padding: 10px 15px;
+    }
